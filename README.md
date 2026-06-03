@@ -21,4 +21,4 @@ Funcionamento
 
 O botão funciona como um interruptor momentâneo. Quando ele é pressionado, o Arduino identifica o sinal elétrico e envia energia para o LED, fazendo-o acender. Quando o botão deixa de ser pressionado, o sinal é interrompido e o LED apaga.
 
-![IMAGEM]()
+![IMAGEM](https://github.com/erickdev510/LED-PUSHBUTTON/blob/main/LED-PUSHBUTTON.png)
